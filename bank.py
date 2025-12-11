@@ -30,15 +30,6 @@ validate_amount(amount) — static method that checks if an amount is valid
 Balance must be numeric and ≥ 0
 PIN must be valid
 
-
-
-
-
-
-
-
-
-
 4- Demonstrate
 Create accounts using both the constructor and the class method
 
